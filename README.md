@@ -10,7 +10,7 @@ This project was created for practicing JavaScript DOM Manipulation and improvin
 
 Clone or download this repository.
 
-git clone https://github.com//memory-game.git
+git clone https://github.com/Suprio-K/Memory-Game.git
 
 
 Open the project folder.
